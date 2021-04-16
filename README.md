@@ -15,7 +15,9 @@ Meeting ID: 867 2038 1822
 Passcode: 404179
 
 
-Ülesanne: 
+
+
+#Ülesanne: 
 Jagan teid tunnis gruppidesse ning teete iseseisvat tööd. Tehke sellest repositooriumist fork ja laadige töö githubi üles. Võite leida erinevaid alternatiive, et kuidas koodi koos kirjutada, aga üks võimalus on installida VS Code'ile laiendus Live Share - https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 
 Looge oma tiimile veebileht, kus on vähemalt kolm lehte: 
