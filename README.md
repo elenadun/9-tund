@@ -23,7 +23,7 @@ Jagan teid tunnis gruppidesse ning teete iseseisvat tööd. Tehke sellest reposi
 Looge oma tiimile veebileht, kus on vähemalt kolm lehte: 
 ## Avaleht:
 1. Ülesande kirjeldusega
-1. Tehtud ülesannete list ja mis osutus raskeks.
+1. Tehtud ülesannete list ja mis osutus ülesande tegemisel raskeks.
 1. Link teie githubi repositooriumile.
 1. Lihtne kalkulaator, kus saab sisestada soo ja vanuse (slideri abil) ning väljundiks on see, mitu aastat pensionini on, kui inimene juba on pensionil, siis tuleb ka seda näidata. 
 
