@@ -35,7 +35,8 @@ Looge oma tiimile veebileht, kus on vähemalt kolm lehte:
 
 ## Kontaktileht:
 1. Vorm, kus on kohustuslikud väljad: nimi, telefon, email, lisainfo. Vorm ei pea infot kuskile saatma, aga jquery'ga peavad olema tehtud kontrollid, kas vormi väli on täidetud. Lisapunkt selle eest, kui on regex-iga kontrollitud ka telefoni ja emaili välja formaati.
-1. Embeded google maps (Viitab kohale, kus peale koroonat minna tahate). 
+1. Embeded google maps (Viitab kohale, kus peale koroonat minna tahate).
+1. Kontaktandmed (fiktiivsed) - telefoninumber, aadress, e-mail
 
 
 ## Üldine
